@@ -1,2 +1,4 @@
 # hockey-scraper
-A hockey scraper focues on game data.
+
+A hockey scraper for game-by-game data including play-by-play, and more.
+
